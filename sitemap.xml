@@ -2,20 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://zhaoyj1122.github.io/post/blog2/</loc>
+    <loc>localhost/post/blog3/</loc>
+    <lastmod>2023-09-09T15:25:11+08:00</lastmod>
+  </url><url>
+    <loc>localhost/</loc>
+    <lastmod>2023-09-09T15:25:11+08:00</lastmod>
+  </url><url>
+    <loc>localhost/post/</loc>
+    <lastmod>2023-09-09T15:25:11+08:00</lastmod>
+  </url><url>
+    <loc>localhost/post/blog2/</loc>
     <lastmod>2023-09-07T20:54:10+08:00</lastmod>
   </url><url>
-    <loc>https://zhaoyj1122.github.io/</loc>
-    <lastmod>2023-09-07T20:54:10+08:00</lastmod>
-  </url><url>
-    <loc>https://zhaoyj1122.github.io/post/</loc>
-    <lastmod>2023-09-07T20:54:10+08:00</lastmod>
-  </url><url>
-    <loc>https://zhaoyj1122.github.io/post/blog/</loc>
+    <loc>localhost/post/blog/</loc>
     <lastmod>2023-09-07T20:00:18+08:00</lastmod>
   </url><url>
-    <loc>https://zhaoyj1122.github.io/categories/</loc>
+    <loc>localhost/categories/</loc>
   </url><url>
-    <loc>https://zhaoyj1122.github.io/tags/</loc>
+    <loc>localhost/tags/</loc>
   </url>
 </urlset>
